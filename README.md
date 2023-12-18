@@ -8,7 +8,7 @@ Autor: Sara Manau Vila
 
 Data: 18/12/2023
 
-![Cultura Digital]([https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png](https://espacio.fundaciontelefonica.com/wp-content/uploads/2020/03/cultura-a-la-carta-1100x550.jpg)) 
+![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png](https://espacio.fundaciontelefonica.com/wp-content/uploads/2020/03/cultura-a-la-carta-1100x550.jpg) 
 Foto de fundaciontelefonica a [Espacio Fundación Telefonica]([url](https://espacio.fundaciontelefonica.com/))
 
 
@@ -38,6 +38,10 @@ Foto de Domestika a [Domestika]([url](https://www.domestika.org/es/blog/3883-10-
 
 Les tauletes digitals s'han convertit amb dispositius versàtils que han transformat la forma en la qual consumim contingut, treballem i aprenem dins l'era de la digitalització. En aquest cas les tauletes especialitzades a poder fer dissenys gràfics són dispositius dissenyats especialment per artistes digitals, il·lustradors i qualsevol persona interessada amb la creació d'art digital. Aquestes tauletes tenen característiques especials per poder generar dibuixos d'una manera més precisa i natural. En aquest cas agafarem com a exemple el model iPad Pro amb Apple Pencil, una tauleta d'alta gamma. La pantalla amb líquid retina d'alta resolució fa que la reproducció sigui més precisa i un molt bon efecte en el color. La seva sensibilitat en la pantalla permet que amb el llapis sigui capaç de sentir tots els moviments per captar de la millor manera possible el dibuix que es vol realitzar.
 
+### Conclusions
+
+La transició dels models analògics a models digitals com hem pogut veure en els dos exemples anteriors és una característica dins la digitalització i ens aporta diferents transformacions en diferents àrees.
+Els dos exemples ens mostren una millora en eficàcia de comunicació en cas de l'immoble i eficàcia en el cas de la tauleta per dibuixar. 
 
 ### Referencias y Bibliografía
 

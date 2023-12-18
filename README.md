@@ -8,7 +8,7 @@ Autor: Sara Manau Vila
 
 Data: 18/12/2023
 
-img (https://espacio.fundaciontelefonica.com/wp-content/uploads/2020/03/cultura-a-la-carta-1100x550.jpg)
+![Noia interactuant amb una tauleta](https://i.postimg.cc/qRKGxL4R/young-woman-holding-tablet-with-spotify-app.jpg)
 
 ## Plantejament
 

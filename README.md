@@ -10,7 +10,7 @@ Data: 18/12/2023
 
 ![Cultura Digital][(https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png](https://espacio.fundaciontelefonica.com/wp-content/uploads/2020/03/cultura-a-la-carta-1100x550.jpg)]
 Foto de fundaciontelefonica a [Espacio Fundación Telefonica]([url](https://espacio.fundaciontelefonica.com/))
-
+![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png](https://espacio.fundaciontelefonica.com/wp-content/uploads/2020/03/cultura-a-la-carta-1100x550.jpg) 
 
 ## Plantejament
 
